@@ -64,6 +64,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CalcContainer.cs" />
     <Compile Include="scienceCalcFunctions.cs" />
+    <Compile Include="singleton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

@@ -13,7 +13,8 @@ namespace DavesTeachesIoC
     {
         public ICalc resolveUnity()
         {
-            var calcObj = new UnityContainer();
+            var calcObj = singleton.CalcResolver();
+            
             calcObj.RegisterType<ICalc, Calc>(new InjectionConstructor(typeof(CalcFunctions), typeof(scienceCalcFunctions)));
             
             calcObj.RegisterType<ICalcFunctions, CalcFunctions>();
