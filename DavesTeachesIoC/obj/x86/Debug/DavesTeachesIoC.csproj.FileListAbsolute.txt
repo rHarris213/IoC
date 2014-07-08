@@ -1,0 +1,13 @@
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\DavesTeachesIoC.exe.config
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\DavesTeachesIoC.exe
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\DavesTeachesIoC.pdb
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\obj\x86\Debug\DavesTeachesIoC.exe
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\obj\x86\Debug\DavesTeachesIoC.pdb
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Robert\Desktop\DavesTeachesIoC\DavesTeachesIoC\obj\x86\Debug\DavesTeachesIoC.csprojResolveAssemblyReference.cache
